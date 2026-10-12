@@ -1,0 +1,4 @@
+Learn Python
+Learn Git
+Build a project
+Practice Git branches
